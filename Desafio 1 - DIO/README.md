@@ -7,11 +7,11 @@ Nesse Projeto pude colocar em prática várias informações que pude aprender d
 Através da ferramenta, pude utilizar o dataset "Financials" disponibilizada pela própria microsoft onde pude realizar a criação de um relatório interativo de duas páginas com diversos gráficos e métricas.
 
 
-![Página 1](img/página\1.png)
+![Página 1](img/pagina_1.png)
 
 ---
 
-![Página 2](img/página\2.png)
+![Página 2](img/pagina_2.png)
 
 
 ## Aprendizados
@@ -36,13 +36,13 @@ Este projeto no GitHub reflete todos esses aprendizados e está disponível para
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/Helton-Rubens/Bootcamp-DIO/tree/abb9e9065bcc3d4729f78c69de9fa418c5ed7ff5/Desafio%201%20-%20DIO
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd pasta do projeto
+  cd pasta_do_projeto
 ```
 
 Instale as dependências
@@ -50,7 +50,7 @@ Instale as dependências
 certifique-se de ter o Power BI Desktop já instalado em sua máquina e abra o arquivo.
 
 
-### Sinta-se livre para fazer suas alterações e fazer um pull request!
+### Sinta-se livre para fazer suas alterações!
 
 
 
