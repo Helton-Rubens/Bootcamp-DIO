@@ -7,11 +7,11 @@ Nesse Projeto pude colocar em prática várias informações que pude aprender d
 Através da ferramenta, pude utilizar o dataset "Financials" disponibilizada pela própria microsoft onde pude realizar a criação de um relatório interativo de duas páginas com diversos gráficos e métricas.
 
 
-<img src = img/'página 1'.png>
+<img src = img/página 1.png>
 
 ---
 
-<img src = img/'página 2'.png>
+<img src = img/página 2.png>
 
 
 ## Aprendizados
